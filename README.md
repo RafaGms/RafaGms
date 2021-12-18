@@ -1,6 +1,6 @@
 # Olá 👋 Bem vindos ao meu perfil!
 - 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas na Etec Martinho di Ciero em Itu.<br>
-- 🚀 Tenho estudado .NET, HTML, CSS e Boostrap.
+- 💻 Tenho estudado .NET, HTML, CSS e Boostrap.
 <div align="center">
   <a href="https://github.com/Rafa1922">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaGms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
