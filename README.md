@@ -1,5 +1,5 @@
 # Olá 👋 Bem vindos ao meu perfil!
-- 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas na Etec Martinho di Ciero em Itu.<br>
+- 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas na Fatec Itu - Dom Amaury Castanho.<br>
 - 💻 Tenho estudado HTML, CSS, JS, Boostrap, C e .NET.
 <div align="center">
   <a href="https://github.com/Rafa1922">
