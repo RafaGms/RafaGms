@@ -1,6 +1,6 @@
 # Olá 👋 Bem vindos ao meu perfil!
 - 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas na Fatec Itu - Dom Amaury Castanho.<br>
-- 💻 Tenho estudado HTML, CSS, JS, Boostrap, C e .NET.
+- 💻 Tenho estudado HTML, CSS, JS, React, Boostrap e C.
 <div align="center">
   <a href="https://github.com/Rafa1922">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaGms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
