@@ -40,7 +40,7 @@ Hoje sou responsável pela arquitetura de um motor de crédito em produção —
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fRafaGms&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaGms&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaGms&theme=moonlight)
 
 </div>
