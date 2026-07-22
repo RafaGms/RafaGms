@@ -1,25 +1,43 @@
-# Olá 👋 Bem vindos ao meu perfil!
+# Olá, sou o Rafael 👋
 
-<div align="center">
-  <a href="https://github.com/RafaGms">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaGms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGms&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-<!--   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-<!--    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="Figma"  src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" height="40"/> -->
-</div>
-  
-  ##
-  
-  <div>
-<!--   <a href="https://www.linkedin.com/in/rafaelgms0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-  </div>
+Desenvolvedor **Full Stack focado em Backend**, atuando com Node.js, NestJS e TypeScript em produtos de healthtech, fintech e legaltech.
 
+Hoje sou responsável pela arquitetura de um motor de crédito em produção — integrações de decisão, filas assíncronas e observabilidade no dia a dia. Também estou me aprofundando em Java e Spring Boot.
 
+- 🔭 Trabalhando atualmente na **Mind Group**
+- 🌱 Estudando **Java & Spring Boot**
+- 💬 Pergunte-me sobre Node.js, NestJS, arquitetura de APIs e filas assíncronas
+- 📫 Contato: faelgomes2003@gmail.com
+
+## 🛠️ Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaGms&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGms&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=RafaGms&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=RafaGms&theme=tokyonight&no-frame=true&column=6&margin-w=8" alt="GitHub trophies"/>
+</p>
+
+## 🔗 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelgms0)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faelgomes2003@gmail.com)
